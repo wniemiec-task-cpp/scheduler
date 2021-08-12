@@ -48,7 +48,7 @@ void Scheduler::initialize_routine_id()
 
 void* Scheduler::delay_control_routine(void* arg)
 {
-    long delay = (long) arg;
+    long delay = *reinterpret_cast<long*>(arg);
     unsigned long id = current_routine_id;
     const std::function<void(void)> routine = current_routine;
 
