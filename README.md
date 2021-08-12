@@ -8,7 +8,7 @@
 	<a href="https://github.com/wniemiec-io-cpp/scheduler/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-io-cpp/scheduler/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
 	<a href="https://codecov.io/gh/wniemiec-io-cpp/scheduler"><img src="https://codecov.io/gh/wniemiec-io-cpp/scheduler/branch/master/graph/badge.svg?token=R2SFS4SP86" alt="Coverage status"></a>
 	<a href="https://docs.microsoft.com/en-us/cpp/"><img src="https://img.shields.io/badge/C++-17+-D0008F.svg" alt="Cpp compatibility"></a>
-	<a href="https://mvnrepository.com/artifact/io.github.wniemiec-io-cpp/scheduler"><img src="https://img.shields.io/maven-central/v/io.github.wniemiec-io-cpp/scheduler" alt="Maven Central release"></a>
+	<a href="https://github.com/wniemiec-task-cpp/scheduler/releases"><img src="https://img.shields.io/github/v/release/wniemiec-task-cpp/scheduler" alt="Release"></a>
 	<a href="https://github.com/wniemiec-io-cpp/scheduler/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-io-cpp/scheduler" alt="License"></a>
 </p>
 <hr />
