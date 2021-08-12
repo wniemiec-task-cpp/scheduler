@@ -83,7 +83,7 @@ unsigned long Scheduler::set_interval(const std::function<void(void)>& routine, 
 
 void* Scheduler::interval_control_routine(void* arg)
 {
-    long interval = (long) arg;
+    long interval = *reinterpret_cast<long*>(arg);
     unsigned long id = current_routine_id;
     const std::function<void(void)> routine = current_routine;
 
